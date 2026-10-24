@@ -7,8 +7,8 @@ const INSTAGRAM_URL = 'https://www.instagram.com/vsc.barber/'
 
 const gallery = [
   { title: 'Corte moderno', subtitle: 'Fade & textura', image: '/gallery/corte-moderno.jpg' },
-  { title: 'Corte clásico', subtitle: 'Tijera & precisión', image: '/gallery/corte-clasico.jpg' },
-  { title: 'Corte de barba', subtitle: 'Perfilado & ritual', image: '/gallery/corte-barba.jpg' },
+  { title: 'Corte clásico', subtitle: 'Tijera & precisión', image: '/gallery/corte-clasico-v2.jpg' },
+  { title: 'Corte de barba', subtitle: 'Perfilado & ritual', image: '/gallery/corte-barba-v2.jpg' },
 ]
 
 function BrandMark() { return <Image src="/logo.png" alt="" width={900} height={673} className="brand-logo" priority /> }
